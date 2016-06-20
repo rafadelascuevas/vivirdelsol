@@ -1,15 +1,15 @@
 @font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(./fonts/k3k702ZOKiLJc3WVjuplzBampu5_7CjHW5spxoeN3Vs.woff2) format('woff2'), url(./fonts/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff) format('woff');;
+}
+
+@font-face {
 	font-family: 'Oswald';
 	font-style: normal;
 	font-weight: 400;
 	src: local('Oswald Regular'), local('Oswald-Regular'), url(./fonts/_P8jt3Y65hJ9c4AzRE0V1OvvDin1pK8aKteLpeZ5c0A.woff2) format('woff2'), url(./fonts/qpy-UiLNKP-VfOdbcs6r6-vvDin1pK8aKteLpeZ5c0A.woff) format('woff');
-}
-
-@font-face {
-	font-family: 'Roboto';
-	font-style: normal;
-	font-weight: 700;
-	src: local('Roboto Bold'), local('Roboto-Bold'), url(./fonts/d-6IYplOFocCacKzxwXSOJBw1xU1rKptJj_0jans920.woff2) format('woff2'), url(./fonts/d-6IYplOFocCacKzxwXSOLO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
 }
 
 @font-face {
@@ -24,13 +24,6 @@
 	font-style: normal;
 	font-weight: 400;
 	src: local('Open Sans'), local('OpenSans'), url(./fonts/cJZKeOuBrn4kERxqtaUH3ZBw1xU1rKptJj_0jans920.woff2) format('woff2'), url(./fonts/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
-}
-
-@font-face {
-	font-family: 'Roboto';
-	font-style: normal;
-	font-weight: 300;
-	src: local('Roboto Light'), local('Roboto-Light'), url(./fonts/Hgo13k-tfSpn0qi1SFdUfZBw1xU1rKptJj_0jans920.woff2) format('woff2'), url(./fonts/Hgo13k-tfSpn0qi1SFdUfbO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
 }
 
 .ffstyle_Thin { font-style: normal; font-weight: 100; }
