@@ -1,0 +1,625 @@
+.version.navarra_irreductible /* version checker */
+{
+	color: #00000A;
+	background-color: #6CDBD9;
+}
+
+.html
+{
+	background-color: #1A1A1A;
+}
+
+#page
+{
+	z-index: 1;
+	width: 988px;
+	min-height: 534px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 122px;
+	padding-bottom: 16px;
+	width: 0.01px;
+}
+
+#u440
+{
+	z-index: 157;
+	height: 61px;
+	top: 0px;
+}
+
+#u440-bw
+{
+	z-index: 157;
+}
+
+#menuu245
+{
+	z-index: 159;
+	width: 988px;
+	top: 18px;
+	left: 50%;
+	margin-left: -494px;
+}
+
+#u253
+{
+	width: 98px;
+	min-height: 34px;
+	margin-right: -10000px;
+}
+
+#u254
+{
+	width: 98px;
+	padding-bottom: 16px;
+}
+
+#u254:hover
+{
+	width: 98px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u254.MuseMenuActive
+{
+	width: 98px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u255-4
+{
+	width: 52px;
+	min-height: 18px;
+	margin-right: -10000px;
+	top: 8px;
+	left: 23px;
+}
+
+#u254:hover #u255-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 52px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u254.MuseMenuActive #u255-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 52px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u298
+{
+	width: 188px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 100px;
+}
+
+#u301
+{
+	width: 188px;
+	padding-bottom: 16px;
+}
+
+#u301.MuseMenuActive
+{
+	width: 188px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u304-4
+{
+	width: 142px;
+	min-height: 18px;
+	margin-right: -10000px;
+	top: 8px;
+	left: 23px;
+}
+
+#u301:hover #u304-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 142px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u301.MuseMenuActive #u304-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 142px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u305
+{
+	width: 240px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 290px;
+}
+
+#u308
+{
+	width: 240px;
+	padding-bottom: 16px;
+}
+
+#u308.MuseMenuActive
+{
+	width: 240px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u310-4
+{
+	width: 194px;
+	min-height: 18px;
+	margin-right: -10000px;
+	top: 8px;
+	left: 23px;
+}
+
+#u308:hover #u310-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 194px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u308.MuseMenuActive #u310-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 194px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u312
+{
+	width: 169px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 532px;
+}
+
+#u313
+{
+	width: 169px;
+	padding-bottom: 16px;
+}
+
+#u313.MuseMenuActive
+{
+	width: 169px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u314-4
+{
+	width: 123px;
+	min-height: 18px;
+	margin-right: -10000px;
+	top: 8px;
+	left: 23px;
+}
+
+#u313:hover #u314-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 123px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u313.MuseMenuActive #u314-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 123px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u8042
+{
+	width: 123px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 703px;
+}
+
+#u8043
+{
+	width: 123px;
+	padding-bottom: 16px;
+}
+
+#u8043.MuseMenuActive
+{
+	width: 123px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u8044-4
+{
+	width: 78px;
+	min-height: 18px;
+	margin-right: -10000px;
+	top: 8px;
+	left: 22px;
+}
+
+#u8043.MuseMenuActive #u8044-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 78px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u319
+{
+	width: 160px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 828px;
+}
+
+#u322
+{
+	width: 160px;
+	padding-bottom: 16px;
+}
+
+#u322.MuseMenuActive
+{
+	width: 160px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u323-4
+{
+	width: 115px;
+	min-height: 18px;
+	margin-right: -10000px;
+	top: 8px;
+	left: 22px;
+}
+
+#u322:hover #u323-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 115px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u322.MuseMenuActive #u323-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 18px;
+	width: 115px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u125
+{
+	z-index: 158;
+	height: 1px;
+	top: 61px;
+}
+
+#u125-bw
+{
+	z-index: 158;
+}
+
+#pu7069
+{
+	width: 0.01px;
+	margin-left: -21px;
+}
+
+#u7069
+{
+	z-index: 141;
+	width: 180px;
+	height: 181px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	background: transparent url("../images/navarrasolar02.png") no-repeat center center;
+	background-size: contain;
+}
+
+#pu7067-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-left: 189px;
+}
+
+#u7067-4
+{
+	z-index: 137;
+	width: 652px;
+	min-height: 85px;
+	background-color: transparent;
+	position: relative;
+}
+
+#pu7066-4
+{
+	width: 0.01px;
+	margin-top: -5px;
+}
+
+#u7066-4
+{
+	z-index: 133;
+	width: 652px;
+	min-height: 50px;
+	background-color: transparent;
+	line-height: 32px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u8011
+{
+	z-index: 155;
+	width: 381px;
+	height: 18px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 38px;
+	border-width: 1px 0px 0px;
+}
+
+#u7170
+{
+	z-index: 132;
+	height: 722px;
+	background: transparent url("../images/monte_alto_milagro3.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u7170-bw
+{
+	z-index: 132;
+	margin-top: 43px;
+	height: 722px;
+}
+
+#u7265-4
+{
+	z-index: 143;
+	width: 820px;
+	min-height: 34px;
+	background-color: transparent;
+	margin-left: 84px;
+	margin-top: 31px;
+	position: relative;
+}
+
+#pu7065-113
+{
+	width: 0.01px;
+	margin-top: 32px;
+}
+
+#u7065-113
+{
+	z-index: 19;
+	width: 652px;
+	min-height: 5170px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 168px;
+}
+
+#u7263
+{
+	z-index: 142;
+	width: 988px;
+	min-height: 654px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 301px;
+}
+
+#u7266
+{
+	z-index: 147;
+	width: 988px;
+	height: 695px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 3414px;
+	background: transparent url("../images/navarra-biblioteca.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u7273-5
+{
+	z-index: 148;
+	width: 820px;
+	min-height: 34px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4139px;
+	left: 84px;
+}
+
+#u7284
+{
+	z-index: 153;
+	width: 988px;
+	min-height: 885px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1721px;
+}
+
+#pu7975
+{
+	width: 0.01px;
+	margin-left: 168px;
+}
+
+#u7975
+{
+	z-index: 154;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 105px;
+}
+
+#u8056
+{
+	z-index: 156;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u345
+{
+	z-index: 16;
+	height: 1px;
+}
+
+#u345-bw
+{
+	z-index: 16;
+	margin-top: 1px;
+	height: 1px;
+}
+
+#pu344-8
+{
+	width: 0.01px;
+	margin-left: 84px;
+	margin-top: 17px;
+}
+
+#u344-8
+{
+	z-index: 2;
+	width: 336px;
+	min-height: 53px;
+	margin-right: -10000px;
+}
+
+#u8007-6
+{
+	z-index: 10;
+	width: 336px;
+	min-height: 38px;
+	padding-top: 15px;
+	margin-right: -10000px;
+	left: 400px;
+}
+
+#u7955
+{
+	z-index: 18;
+	width: 53px;
+	height: 53px;
+	margin-right: -10000px;
+	left: 767px;
+}
+
+#u7955:hover
+{
+	width: 53px;
+	height: 53px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7931
+{
+	z-index: 17;
+	width: 53px;
+	height: 53px;
+	margin-right: -10000px;
+	left: 851px;
+}
+
+#u7955.MuseLinkActive,#u7931:hover
+{
+	width: 53px;
+	height: 53px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7931.MuseLinkActive
+{
+	width: 53px;
+	height: 53px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 988px;
+}
+
