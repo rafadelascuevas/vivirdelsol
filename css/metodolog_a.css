@@ -1,7 +1,7 @@
 .version.metodolog_a /* version checker */
 {
-	color: #0000E3;
-	background-color: #452032;
+	color: #000002;
+	background-color: #0E068A;
 }
 
 .html
@@ -32,19 +32,19 @@
 
 #u440
 {
-	z-index: 116;
+	z-index: 155;
 	height: 61px;
 	top: 0px;
 }
 
 #u440-bw
 {
-	z-index: 116;
+	z-index: 155;
 }
 
 #menuu245
 {
-	z-index: 118;
+	z-index: 157;
 	width: 988px;
 	top: 18px;
 	left: 50%;
@@ -338,14 +338,14 @@
 
 #u125
 {
-	z-index: 117;
+	z-index: 156;
 	height: 1px;
 	top: 61px;
 }
 
 #u125-bw
 {
-	z-index: 117;
+	z-index: 156;
 }
 
 #pu7862
@@ -379,7 +379,7 @@
 
 #u8013
 {
-	z-index: 115;
+	z-index: 154;
 	width: 484px;
 	height: 18px;
 	border-style: solid;
@@ -413,7 +413,7 @@
 	font-weight: 700;
 }
 
-#u8008-7
+#u8008-46
 {
 	z-index: 108;
 	width: 275px;
