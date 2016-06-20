@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="rafadelascuevas.com/vivirdelsol" resolutions="1x" timestamp="1466435779933">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="rafadelascuevas.com/vivirdelsol" resolutions="1x" timestamp="1466436485447">
   <folder name="css">
     <file name="site_global.css" crc="3870906213"/>
     <file name="master_a-p_g_-maestra.css" crc="4142882780" ref="autoconsumo:index:sitemap:eclipse-forzado:interactivo:navarra-irreductible:glosario:metodología"/>
@@ -265,7 +265,7 @@
     <file name="provincias_vacio.png" crc="3952937128" ref="interactivo"/>
   </folder>
   <file name="index.html" crc="4232874290" seo="true" mt="1466003020621" redirect="true"/>
-  <file name="eclipse-forzado.html" crc="159013384" seo="true" mt="1466435749746" redirect="true"/>
+  <file name="eclipse-forzado.html" crc="4196877490" seo="true" mt="1466436472170" redirect="true"/>
   <file name="navarra-irreductible.html" crc="3911258845" seo="true" mt="1466004049292" redirect="true"/>
   <file name="autoconsumo.html" crc="3803748086" seo="true" mt="1466431773824" redirect="true"/>
   <file name="interactivo.html" crc="4011975589" seo="true" mt="1466003020621" redirect="true"/>
